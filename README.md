@@ -1,5 +1,10 @@
 ## Olá! Sou a Emily Ribeiro
 
+### 🤖 Linguagens e Tecnologias
+<div style="display: inline_block"><br>
+  https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+</div>
+### 📊 Estatísticas
 <p>
   <img 
     align="left" 
